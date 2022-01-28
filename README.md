@@ -1,2 +1,6 @@
 # Captcha
-take you one name or made captcha of name 
+you take name or made captcha of name 
+
+```
+pip install captcha
+```
